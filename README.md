@@ -20,5 +20,6 @@ Our lab uses this system to:
 This repository provides the exact configuration and notebooks used in
 so others can replicate the setup.
 
-##Repository Structure 
+
+
 
