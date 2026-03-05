@@ -14,7 +14,7 @@ experimentation and simulation.
 
   
 
-NASA Impact Github: https://github.com/NASA-IMPACT/Surya 
+NASA Impact Surya Github: https://github.com/NASA-IMPACT/Surya 
 
 Hugging Face Repository: https://huggingface.co/nasa-ibm-ai4science 
 
