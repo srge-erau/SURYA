@@ -9,7 +9,7 @@ experimentation and simulation.
 
 ## Project Overview
 
-is a 366M-parameter foundation model for heliophysics, trained on full-resolution multi-instrument SDO observations (AIA & HMI). It learns general-purpose solar representations through spatiotemporal transformers, enabling state-of-the-art performance in solar flare forecasting, active region segmentation, solar wind prediction, and EUV spectra modeling.
+Surya is a 366M-parameter foundation model for heliophysics, trained on full-resolution multi-instrument SDO observations (AIA & HMI). It learns general-purpose solar representations through spatiotemporal transformers, enabling state-of-the-art performance in solar flare forecasting, active region segmentation, solar wind prediction, and EUV spectra modeling.
 Our lab uses this system to:
 
 - Run Surya pipelines in Google Colab
@@ -21,3 +21,4 @@ This repository provides the exact configuration and notebooks used in
 so others can replicate the setup.
 
 ##Repository Structure 
+
