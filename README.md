@@ -51,7 +51,10 @@ Each of the working Google Co Lab notebooks contain the Surya base model and its
 
 - Surya_SolarFlare_Prediction.ipynb: This Notebook houses the solar flare prediction task. Sections include mounting to google drive for output saving, the tutorial code for setting up the task for an example inference run, file formats, and an attempted run for a custom prediction inference run. 
 
-- SURYA_WorkingTest1.ipynb: This notebook contains the base model and each of the four tasks (Solar Wind Prediction, Solar Flare Prediction, Active Region Segmentation, and EUV Spectra Analysis) tutorial set up steps loaded and working. Each task displays its trained example prediction from a predefined time range. 
+- SURYA_WorkingTest1.ipynb: This notebook contains the base model and each of the four tasks (Solar Wind Prediction, Solar Flare Prediction, Active Region Segmentation, and EUV Spectra Analysis) tutorial set up steps loaded and working. Each task displays its trained example prediction from a predefined time range.
+
+Inside the Notebook structure there are other files relating to Project HELIO's work with Surya:
+- NOAA_Task_Verified: 
 
   
 ## Important Information 
