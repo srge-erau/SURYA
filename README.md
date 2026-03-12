@@ -54,7 +54,8 @@ Each of the working Google Co Lab notebooks contain the Surya base model and its
 - SURYA_WorkingTest1.ipynb: This notebook contains the base model and each of the four tasks (Solar Wind Prediction, Solar Flare Prediction, Active Region Segmentation, and EUV Spectra Analysis) tutorial set up steps loaded and working. Each task displays its trained example prediction from a predefined time range.
 
 Inside the Notebook structure there are other files relating to Project HELIO's work with Surya:
-- NOAA_Task_Verified: 
+
+- NOAA_Task_Verified: This folder contains code to pull NOAA's solar flare data for five events for comparison with SURYA data. The readme and notes text files describe the process of how to use the code and how to verify it as well as verified results of correct comparison between NOAAs archives vs the pulled flare data from NOAA.
 
   
 ## Important Information 
